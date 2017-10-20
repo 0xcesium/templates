@@ -3,6 +3,7 @@
 #include <string.h>
 
 /*
+ *  Forked from https://blackndoor.fr/introduction-to-stack-overflow/
  *  Compile with : gcc -m32 -ggdb -o exemple1 exemple1.c
  */
 
